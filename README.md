@@ -2,7 +2,7 @@
 
 ## 镜像名称	                                             k8s v1.7 版本相关	k8s v1.8 版本相关
 
-gcr.io/google_containers/kube-apiserver-${ARCH}	            v1.7.x	             v1.8.x  
+[size=0.9em] gcr.io/google_containers/kube-apiserver-${ARCH}	            v1.7.x	             v1.8.x  
 gcr.io/google_containers/kube-controller-manager-${ARCH}	  v1.7.x	             v1.8.x  
 gcr.io/google_containers/kube-scheduler-${ARCH}	            v1.7.x	             v1.8.x  
 gcr.io/google_containers/kube-proxy-${ARCH}	                v1.7.x	             v1.8.x  
